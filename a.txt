@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 abcd
 abcd
 b
 c
-=======
 a
 blablabla
 blablabla
-1
->>>>>>> parent of 2f8ba77... a
